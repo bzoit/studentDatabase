@@ -1,0 +1,1 @@
+let classes = prompt("Please list all the classes the student is taking separated by a comma.", "");
